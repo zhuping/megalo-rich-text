@@ -1,0 +1,3 @@
+<template name="rich-text">
+  <rich-text nodes="{{nodes}}"></rich-text>
+</template>
